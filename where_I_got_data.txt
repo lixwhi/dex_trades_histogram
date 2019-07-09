@@ -1,0 +1,5 @@
+http://www.cryptodatadownload.com/data/northamerican/
+I flipped these data so the closest time stamps were at the top- gemini_ETHUSD_2019_1min.csv
+
+dai.stablecoin.science
+
